@@ -1,0 +1,8 @@
+---
+
+
+ip_address:
+  loadbalancer-1: 10.10.20.5
+  backend-1: 10.10.20.12
+  backend-2: 10.10.20.21
+  database-1: 10.10.20.4
